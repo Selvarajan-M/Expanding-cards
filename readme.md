@@ -42,7 +42,7 @@ This is a simple and visually engaging web project that demonstrates expanding i
 
 ## 📸 Screenshot
 
-![Project Screenshot](Expanding-cards/preview.png)
+![Project Screenshot](preview.PNG)
 <sub>Replace `screenshot.png` with the actual image path after uploading to GitHub</sub>
 
 ## 👨‍💻 Author
