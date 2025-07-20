@@ -43,17 +43,10 @@ This is a simple and visually engaging web project that demonstrates expanding i
 ## 📸 Screenshot
 
 ![Project Screenshot](preview.PNG)
-<sub>Replace `screenshot.png` with the actual image path after uploading to GitHub</sub>
 
 ## 👨‍💻 Author
 
 **Selvarajan M**  
 GitHub: [@Selvarajan-M](https://github.com/Selvarajan-M)
-
-## 📄 Resume Description
-
-> Created an interactive image expanding card UI using HTML, CSS, and JavaScript. Deployed on Netlify to showcase frontend responsiveness and visual design.
-
----
 
 ⭐️ If you liked this project, consider starring the repository!
